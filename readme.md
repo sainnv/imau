@@ -1,6 +1,9 @@
 # 深度学习之PyTorch物体检测实战
 -------------------
 
+### 学习 deep-learning-for-image-processing
+* https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
 ### 2021-02-25 is GAN network
 * https://github.com/hindupuravinash/the-gan-zoo
 
