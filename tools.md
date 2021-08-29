@@ -1,3 +1,11 @@
+# resource file path
+-https://github.com/tangtangcoding/C-C-
+```
+  c
+  python
+  etc
+```
+
 
 https://www.zhihu.com/question/387983385
 
