@@ -1,6 +1,6 @@
 英语作文中转折连接词汇总
 
-###一、近义词汇：
+### 一、近义词汇：
 
 1. 完全： absolute, unconditional, unlimited, complete, unrestricted, unmixed, perfect, entire
 2. 好： extraordinary, amazing, miraculous, marvelous, stupendous, excellent, good, well, wonderful, fine, nice, of high quality, pleasing, surprising, agreeable
@@ -10,7 +10,7 @@
 6. 真的： True, truthful, veracious, faithful, accurate, loyal, staunch, genuine, honest, real, trustworthy, constant.
 7. 全，都： all, whole, entire, complete, perfect, total, the whole number of , unbroken , gross
 
-###二、常见的连接词汇总
+### 二、常见的连接词汇总
 
 表递进 moreover, in addition, what is more ， furthermore, also, then, besides, etc.
 表转折 however, nevertheless, on the other hand, on the contrary, etc.
@@ -40,7 +40,7 @@ Mostly, occasionally, currently, naturally, mainly, exactly, evidently, frankly,
 表递进 in addition furthermore what 's more what ' s worse 表对比 whereas while as opposed to by contrast by comparison 
 表示时间与频率的词汇 :in general, every, some, after, on the whole, usually, most, at other times, in most cases, frequently, main, finally, as a rule, rarely, before, meanwhile.
 
-###三、写作常用连接词汇总 一些英语短文中常用的转承语
+### 三、写作常用连接词汇总 一些英语短文中常用的转承语
 
 1.增补(Addition) in addition, furthermore, again, also, besides, moreover, what`s more, similarly, next, finally.
 2.比较(Comparison) in the same way, likewise, similarly, equally, in comparison, just as
@@ -53,7 +53,7 @@ Mostly, occasionally, currently, naturally, mainly, exactly, evidently, frankly,
 9.推断(Inference) therefore, as a result(of), consequently, accordingly, so, otherwise
 10. 时间和空间 (Time and space) afterward, after, first, later, then, soon, outside, near, beyound, above, below, on the right(left), in the middle, opposite, in front of
 
-###四、大家在使用这些词的时候要先弄清哪些是副词 ,哪些是连词 .(副词不可以连接两个句子 ,连词可以 .) 以下是按照另外一种角度来概括启、承、转、合：
+### 四、大家在使用这些词的时候要先弄清哪些是副词 ,哪些是连词 .(副词不可以连接两个句子 ,连词可以 .) 以下是按照另外一种角度来概括启、承、转、合：
 启
 
 A proverb says⋯ At present... As the proverb says  Currently ⋯ Generally speaking⋯ Now ⋯In general ⋯On the Whole  It is clear that  Recently ⋯ It is often said that  Without doubt, 承
