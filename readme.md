@@ -3,6 +3,7 @@
 
 ### 学习 deep-learning-for-image-processing
 * https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+202309-202401 学习完成
 
 ### 2021-02-25 is GAN network
 * https://github.com/hindupuravinash/the-gan-zoo
@@ -12,3 +13,4 @@
 
 ### 参考
 * https://github.com/poppinace/mtc
+
